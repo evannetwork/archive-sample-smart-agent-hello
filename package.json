@@ -1,0 +1,9 @@
+{
+    "author": "Me Myself",
+    "name": "smart-agent-hello",
+    "description": "Changes the string from the hello-world contract",
+    "version": "0.0.1",
+    "engines": {
+        "node": ">=8.0.0"
+    },
+}
