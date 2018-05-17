@@ -1,4 +1,7 @@
 exports['default'] = {
+  ethAccounts: {
+    '0xE3e091EBC4A2474fb45C00B358B3D3ec5b1550AE' : '32cb1206bad10bdd1c009d02ab53b9c7e0d80308e63dbe51a90bc9f8fcb7a9c2',
+  },
   smartAgentHello: (api) => {
     return {
       disabled: false,  // a simple way to disable specific smart-agent plugins
